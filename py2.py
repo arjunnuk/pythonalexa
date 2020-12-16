@@ -11,6 +11,6 @@ for i in li:
     if(i>0):
         psum=psum+i
     else:
-        nsum=nsum+i
+      nsum=nsum+i
 print("the sum of positive numbers is",psum)
 print("the sum of negative numbers is",nsum)
