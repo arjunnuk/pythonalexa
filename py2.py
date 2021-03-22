@@ -14,4 +14,4 @@ for i in li:
         nsum=nsum+i
 print("the sum of positive number is",psum)
 print("the sum of negative number is",nsum)
-name="
+name="Arjun uk"
